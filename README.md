@@ -6,8 +6,8 @@ This project aims to create an app that interacts with Discord to inform the use
 The app will use the Discord API to interact with Discord, the Google Calendar API to update the user's calendar, and a decision-making algorithm to decide whether or not the user should participate in the plans. This algorithm will use natural language processing (NLP) techniques to understand the context and meaning of the plans, and machine learning (ML) techniques to learn the user's preferences over time.
 
 ### Required APIs:
-- Google Calendar API
-- Discord API
+    Google Calendar API
+    Discord API
 
 ### For learning about machine learning (ML) and natural language processing (NLP):
 
