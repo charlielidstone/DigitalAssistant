@@ -1,4 +1,4 @@
-# DigitalAssistant
+# Digital Assistant
 ### A digital assistant to interact with Discord and Google Calendar.
 
 This project aims to create an app that interacts with Discord to inform the user when friends want to make plans, make decisions on behalf of the user whether or not to participate in the plans, respond on the user's behalf, and update the user's Google Calendar accordingly.
